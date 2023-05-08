@@ -1,0 +1,40 @@
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\bin\Debug\ArrayOfStruct.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\bin\Debug\ArrayOfStruct.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.insertForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.DisplayForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.MainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\StudentsApp.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.SearchDeleteForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfstruct\ArrayOfStruct\obj\x86\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+G:\ArrayOfstruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+G:\ArrayOfstruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+G:\ArrayOfstruct Final\ArrayOfStruct\bin\Debug\ArrayOfStruct.exe
+G:\ArrayOfstruct Final\ArrayOfStruct\bin\Debug\ArrayOfStruct.pdb
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.insertForm.resources
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.DisplayForm.resources
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.MainForm.resources
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.Properties.Resources.resources
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.SearchDeleteForm.resources
+G:\ArrayOfstruct Final\ArrayOfStruct\obj\x86\Debug\StudentsApp.csproj.GenerateResource.Cache
+C:\Users\mis\Documents\Visual Studio 2010\Projects\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+C:\Users\mis\Documents\Visual Studio 2010\Projects\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+E:\Modern Courses\File Organization 2022-2023\Programs\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+E:\Modern Courses\File Organization 2022-2023\Programs\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\bin\Debug\ArrayOfStruct.exe
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\bin\Debug\ArrayOfStruct.pdb
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\StudentsApp.csproj.AssemblyReference.cache
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.insertForm.resources
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.DisplayForm.resources
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.MainForm.resources
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.Properties.Resources.resources
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.SearchDeleteForm.resources
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\StudentsApp.csproj.GenerateResource.cache
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+C:\Users\george\Documents\level3\file organization\StudentAppDesign\StudentAppF\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb

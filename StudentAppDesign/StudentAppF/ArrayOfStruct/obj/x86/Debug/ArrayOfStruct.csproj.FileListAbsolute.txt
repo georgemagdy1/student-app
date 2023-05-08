@@ -1,0 +1,9 @@
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\bin\Debug\ArrayOfStruct.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\bin\Debug\ArrayOfStruct.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.MainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.DisplayForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\ArrayOfStruct\ArrayOfStruct\obj\x86\Debug\ArrayOfStruct.insertForm.resources
